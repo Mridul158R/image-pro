@@ -1,4 +1,4 @@
-import React from "react";
+// import React from 'react';
 import useFirestore from "../hooks/useFirestore";
 
 const ImageGallery = () => {
